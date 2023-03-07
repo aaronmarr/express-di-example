@@ -1,4 +1,3 @@
-// src/app/express/mount-middleware.js
 const express = require('express');
 
 const logger = require('./logger');
