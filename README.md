@@ -9,7 +9,7 @@ To run the code:
 
 ```bash
 # install dependencies
-npi i
+npm i
 
 # start the app
 npm start
